@@ -1,4 +1,4 @@
-#WaltonchainWallet ChangeLog(v1.3.0)
+# WaltonchainWallet ChangeLog(v1.3.0)
 ## Important Notice: Wait until you have connected to at least one node
 ### New features:
 
